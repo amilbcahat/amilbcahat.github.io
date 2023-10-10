@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <a xlink:href="http://malicious.com">
+    <rect width="500" height="500" fill="red" />
+  </a>
+  <script type="text/javascript">
+    window.location.href = 'http://malicious.com';
+  </script>
+</svg>
